@@ -1,4 +1,18 @@
+# Hugo build files
 public/
-.idea/
-.hugo_build.lock
 resources/
+.hugo_build.lock
+
+# IDE files
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+
+# Log files
+*.log
