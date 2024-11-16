@@ -1,0 +1,5 @@
+baseURL = 'https://webgptorg.github.io/the-book-docs/'
+languageCode = 'en-us'
+title = 'The Promptbook Project documentation '
+
+theme = "hugo-book"
