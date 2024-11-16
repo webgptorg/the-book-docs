@@ -1,0 +1,15 @@
+{
+  "name": "The Promptbook Project documentation ",
+  "short_name": "The Promptbook Project documentation ",
+  "start_url": "/the-book-docs/",
+  "scope": "/the-book-docs/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/the-book-docs/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
