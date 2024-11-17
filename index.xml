@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on The Promptbook Project documentation</title><link>https://webgptorg.github.io/the-book-docs/</link><description>Recent content in Introduction on The Promptbook Project documentation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://webgptorg.github.io/the-book-docs/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>https://webgptorg.github.io/the-book-docs/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on The Promptbook Project documentation</title><link>http://localhost:1313/the-book-docs/</link><description>Recent content in Introduction on The Promptbook Project documentation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/the-book-docs/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>http://localhost:1313/the-book-docs/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
  Caput vino delphine in tamen vias
  &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
 &lt;/h1>
@@ -27,7 +27,7 @@ nativum&lt;/a>.&lt;/p>
 &lt;/h2>
 &lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
 Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>https://webgptorg.github.io/the-book-docs/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
+excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>http://localhost:1313/the-book-docs/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
  At me ipso nepotibus nunc celebratior genus
  &lt;a class="anchor" href="#at-me-ipso-nepotibus-nunc-celebratior-genus">#&lt;/a>
 &lt;/h1>
@@ -44,12 +44,12 @@ admonitu concidit, ad resimas vultus et rugas vultu &lt;strong>dignamque&lt;/str
 dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor
 manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon
 crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo
-perque, fugisse pectora sorores.&lt;/p></description></item><item><title>Creating a New Theme</title><link>https://webgptorg.github.io/the-book-docs/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
+perque, fugisse pectora sorores.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:1313/the-book-docs/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h2>
 &lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
-&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>https://webgptorg.github.io/the-book-docs/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
+&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>http://localhost:1313/the-book-docs/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
  Move static content to &lt;code>static&lt;/code>
  &lt;a class="anchor" href="#move-static-content-to-static">#&lt;/a>
 &lt;/h2>
@@ -65,14 +65,14 @@ With Jekyll, something that looked like&lt;/p>
  ▾ images/
  logo.png
 &lt;/code>&lt;/pre>
-&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>https://webgptorg.github.io/the-book-docs/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
+&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>http://localhost:1313/the-book-docs/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in Go templates.&lt;/p>
 &lt;p>This document is a brief primer on using Go templates. The &lt;a href="https://golang.org/pkg/html/template/">Go docs&lt;/a>
-provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>https://webgptorg.github.io/the-book-docs/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
+provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>http://localhost:1313/the-book-docs/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
  Step 1. Install Hugo
  &lt;a class="anchor" href="#step-1-install-hugo">#&lt;/a>
 &lt;/h2>
@@ -86,7 +86,7 @@ appropriate version for your OS and architecture.&lt;/p>
 &lt;/h2>
 &lt;p>Hugo has its own example site which happens to also be the documentation site
 you are reading right now.&lt;/p>
-&lt;p>Follow the following steps:&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/example/collapsed/3rd-level/4th-level/</guid><description>&lt;h1 id="4th-level-of-menu">
+&lt;p>Follow the following steps:&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/example/collapsed/3rd-level/4th-level/</guid><description>&lt;h1 id="4th-level-of-menu">
  4th Level of Menu
  &lt;a class="anchor" href="#4th-level-of-menu">#&lt;/a>
 &lt;/h1>
@@ -100,7 +100,7 @@ gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p>
 &lt;p>Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href="http://www.creveratnon.net/apricaaetheriis">aut
 manes&lt;/a>, Assyrii. Cupiens auctoribus
 pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
-iusto! Sedes ante dum superest &lt;strong>extrema&lt;/strong>.&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
+iusto! Sedes ante dum superest &lt;strong>extrema&lt;/strong>.&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
  This page is hidden in menu
  &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
 &lt;/h1>
@@ -129,7 +129,7 @@ conscia&lt;/a> cuiquam Caeneus quas.&lt;/p>
 &lt;p>O fallor &lt;a href="http://www.spectataharundine.org/aquas-relinquit.html">in sustinui
 iussorum&lt;/a> equidem.
 Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
-iamdudum maius?&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/buttons/</guid><description>&lt;h1 id="buttons">
+iamdudum maius?&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/buttons/</guid><description>&lt;h1 id="buttons">
  Buttons
  &lt;a class="anchor" href="#buttons">#&lt;/a>
 &lt;/h1>
@@ -140,10 +140,10 @@ iamdudum maius?&lt;/p></description></item><item><title/><link>https://webgptorg
 &lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">relref&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/&amp;#34;&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Get Home&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">href&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Contribute&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://webgptorg.github.io/the-book-docs/the-book-docs/" class="book-btn">Get Home&lt;/a>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="http://localhost:1313/the-book-docs/the-book-docs/" class="book-btn">Get Home&lt;/a>
 
 &lt;a href="https://github.com/alex-shpak/hugo-book" target="_blank" rel="noopener" class="book-btn">Contribute&lt;/a>
-&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/columns/</guid><description>&lt;h1 id="columns">
+&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/columns/</guid><description>&lt;h1 id="columns">
  Columns
  &lt;a class="anchor" href="#columns">#&lt;/a>
 &lt;/h1>
@@ -175,7 +175,7 @@ iamdudum maius?&lt;/p></description></item><item><title/><link>https://webgptorg
 &lt;p>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em>quid&lt;/em>, ignes.
-Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/details/</guid><description>&lt;h1 id="details">
+Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/details/</guid><description>&lt;h1 id="details">
  Details
  &lt;a class="anchor" href="#details">#&lt;/a>
 &lt;/h1>
@@ -200,14 +200,14 @@ Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>ht
 &lt;/h2>
 &lt;p>Lorem markdownum insigne&amp;hellip;&lt;/p>
  &lt;/div>
-&lt;/details></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/hints/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/hints/</guid><description>&lt;h1 id="hints">
+&lt;/details></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/hints/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/hints/</guid><description>&lt;h1 id="hints">
  Hints
  &lt;a class="anchor" href="#hints">#&lt;/a>
 &lt;/h1>
 &lt;p>Hint shortcode can be used as hint/alerts/notification block.&lt;br>
 There are 3 colors to choose: &lt;code>info&lt;/code>, &lt;code>warning&lt;/code> and &lt;code>danger&lt;/code>.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">hint&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">info&lt;/span>&lt;span style="color:#f92672">|&lt;/span>&lt;span style="color:#a6e22e">warning&lt;/span>&lt;span style="color:#f92672">|&lt;/span>&lt;span style="color:#a6e22e">danger&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>**Markdown content**
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>**Markdown content** 
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">hint&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
@@ -223,7 +223,7 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p>
 &lt;blockquote class="book-hint warning">
 &lt;p>&lt;strong>Markdown content&lt;/strong>&lt;br>
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
-stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/mermaid/</guid><description>&lt;h1 id="mermaid-chart">
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/mermaid/</guid><description>&lt;h1 id="mermaid-chart">
  Mermaid Chart
  &lt;a class="anchor" href="#mermaid-chart">#&lt;/a>
 &lt;/h1>
@@ -251,7 +251,7 @@ create a &lt;code>mermaid.json&lt;/code> file in your &lt;code>assets&lt;/code> 
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">mermaid&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div> &lt;/div>
 &lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
-&lt;script src="https://webgptorg.github.io/the-book-docs/the-book-docs/mermaid.min.js">&lt;/script>
+&lt;script src="http://localhost:1313/the-book-docs/the-book-docs/mermaid.min.js">&lt;/script>
  &lt;script>mermaid.initialize({
  "flowchart": {
  "useMaxWidth":true
@@ -270,19 +270,19 @@ stateDiagram-v2
  note left of State2 : This is the note to the left.
 &lt;/pre>
  &lt;/div>
-&lt;/div></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/section/first-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/section/first-page/</guid><description>&lt;h1 id="first-page">
+&lt;/div></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/section/first-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/section/first-page/</guid><description>&lt;h1 id="first-page">
  First page
  &lt;a class="anchor" href="#first-page">#&lt;/a>
 &lt;/h1>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p>
 &lt;!--more-->
-&lt;p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/section/second-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/section/second-page/</guid><description>&lt;h1 id="second-page">
+&lt;p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/section/second-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/section/second-page/</guid><description>&lt;h1 id="second-page">
  Second Page
  &lt;a class="anchor" href="#second-page">#&lt;/a>
 &lt;/h1>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p>
 &lt;!--more-->
-&lt;p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title/><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/tabs/</guid><description>&lt;h1 id="tabs">
+&lt;p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title/><link>http://localhost:1313/the-book-docs/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/tabs/</guid><description>&lt;h1 id="tabs">
  Tabs
  &lt;a class="anchor" href="#tabs">#&lt;/a>
 &lt;/h1>
@@ -307,7 +307,7 @@ stateDiagram-v2
 &lt;p>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em>quid&lt;/em>, ignes.
-Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title>KaTeX</title><link>https://webgptorg.github.io/the-book-docs/docs/shortcodes/katex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://webgptorg.github.io/the-book-docs/docs/shortcodes/katex/</guid><description>&lt;h1 id="katex">
+Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title>KaTeX</title><link>http://localhost:1313/the-book-docs/docs/shortcodes/katex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/the-book-docs/docs/shortcodes/katex/</guid><description>&lt;h1 id="katex">
  KaTeX
  &lt;a class="anchor" href="#katex">#&lt;/a>
 &lt;/h1>
@@ -323,9 +323,9 @@ Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title>KaTeX</ti
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /katex &amp;gt;}}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div> &lt;/div>
 &lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
-&lt;link rel="stylesheet" href="https://webgptorg.github.io/the-book-docs/the-book-docs/katex/katex.min.css" />
-&lt;script defer src="https://webgptorg.github.io/the-book-docs/the-book-docs/katex/katex.min.js">&lt;/script>
-&lt;script defer src="https://webgptorg.github.io/the-book-docs/the-book-docs/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
+&lt;link rel="stylesheet" href="http://localhost:1313/the-book-docs/the-book-docs/katex/katex.min.css" />
+&lt;script defer src="http://localhost:1313/the-book-docs/the-book-docs/katex/katex.min.js">&lt;/script>
+&lt;script defer src="http://localhost:1313/the-book-docs/the-book-docs/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
  \[
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 \]
