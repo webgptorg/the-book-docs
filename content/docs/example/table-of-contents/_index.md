@@ -2,14 +2,29 @@
 weight: 10
 ---
 
-# Ubi loqui
+# General context
 
-## Mentem genus facietque salire tempus bracchia
+In this section we shall describe what we do, what problems do we solve. Are we just a "vitamin pill" or a "pain killer"?
 
-Lorem markdownum partu paterno Achillem. Habent amne generosi aderant ad pellem
-nec erat sustinet merces columque haec et, dixit minus nutrit accipiam subibis
-subdidit. Temeraria servatum agros qui sed fulva facta. Primum ultima, dedit,
-suo quisque linguae medentes fixo: tum petis.
+## Problems
+
+The unprecedented and astonishing ability of Large Language Models to generate sensible text that humans can understand
+has revolutionized communication, writing, and even creative expression. However, this breakthrough comes with two
+sides: one positive and one negative.
+
+On the positive side, these models excel at generating coherent and contextually appropriate text, making them
+invaluable tools in fields like education, customer support, content creation, and programming. In the domain of code
+generation, for instance, the inherent rigidity and well-defined syntax of most programming languages act as a framework
+that guides the creativity of large language models. This structure enables them to assist programmers in crafting
+functional code efficiently, even though the models lack a true understanding of its semantics.
+
+On the negative side, this very lack of semantic understanding can lead to issues. While LLMs are capable of producing
+plausible and often correct outputs, they may generate errors or subtly flawed solutions that are syntactically correct
+but logically invalid. This duality underscores both the utility and the limitations of Large Language Models, 
+necessitating a thoughtful approach to their integration into workflows, particularly in critical or sensitive 
+applications.
+
+This is the place where Promptbook naturally fits in.
 
 ## Rapit vocant si hunc siste adspice
 
