@@ -1,5 +1,6 @@
 ---
 weight: 10
+title: "General Idea"
 ---
 
 # General context
@@ -16,7 +17,7 @@ On the positive side, these models excel at generating coherent and contextually
 invaluable tools in fields like education, customer support, content creation, and programming. In the domain of code
 generation, for instance, the inherent rigidity and well-defined syntax of most programming languages act as a framework
 that guides the creativity of large language models. This structure enables them to assist programmers in crafting
-functional code efficiently, even though the models lack a true understanding of its semantics.
+functional code efficiently, even though the models may lack a true understanding of its semantics[^1][^2].
 
 On the negative side, this very lack of semantic understanding can lead to issues. While LLMs are capable of producing
 plausible and often correct outputs, they may generate errors or subtly flawed solutions that are syntactically correct
@@ -24,7 +25,11 @@ but logically invalid. This duality underscores both the utility and the limitat
 necessitating a thoughtful approach to their integration into workflows, particularly in critical or sensitive 
 applications.
 
-This is the place where Promptbook naturally fits in.
+This is the place where [Promptbook](https://github.com/webgptorg/promptbook) naturally fits in. The entire 
+[Promptbook Project](https://github.com/webgptorg/promptbook?tab=readme-ov-file#-the-promptbook-project) is a full 
+ecosystem of several building blocks illustrated by the following picture:
+
+![promptbook-project-scheme](./images/promptbook-project-scheme.png)
 
 ## Rapit vocant si hunc siste adspice
 
@@ -98,3 +103,10 @@ Venasque repulsa Samos qui, exspectatum eram animosque hinc, [aut
 manes](http://www.creveratnon.net/apricaaetheriis), Assyrii. Cupiens auctoribus
 pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
 iusto! Sedes ante dum superest **extrema**.
+
+## Footnotes
+
+[^1]: The question is whether we know what *true understanding* means. Since Gottlob Frege and his *Sinn und
+Bedeutung,* the quesitons is highly debatable.
+[^2]: Another problem is that of **generalization** ability of ML models in general and what implications it has for
+LLMs.
